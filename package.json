@@ -1,8 +1,18 @@
 {
   "dependencies": {
-    "react": "latest"
+    "react": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^3.0.2",
+    "react-router-redux": "^4.0.8",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
   },
   "description": "This is a test.",
   "name": "test",
+  "scripts": {
+    "build": "NODE_ENV=production webpack",
+    "dev": "webpack-dev-server",
+    "dev-build": "NODE_ENV=development webpack"
+  },
   "version": "1.0.0"
 }
