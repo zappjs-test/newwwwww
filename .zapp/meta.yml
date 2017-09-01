@@ -7,3 +7,11 @@ generators:
   /readme:
     keys:
       - id
+specs:
+  /app/title: {}
+  /app:
+    keys:
+      - name
+      - title
+      - description
+  /app/description: {}
