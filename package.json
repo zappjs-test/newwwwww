@@ -1,3 +1,5 @@
 {
-  "name": "test"
+  "description": "This is a test.",
+  "name": "test",
+  "version": "1.0.0"
 }

@@ -11,7 +11,9 @@ specs:
   /app/title: {}
   /app:
     keys:
-      - name
       - title
+      - name
+      - version
       - description
   /app/description: {}
+  /app/version: {}
