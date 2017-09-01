@@ -17,3 +17,7 @@ specs:
       - description
   /app/description: {}
   /app/version: {}
+  /:
+    keys:
+      - app
+      - dependencies
