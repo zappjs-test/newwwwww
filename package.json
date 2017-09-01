@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "react": "latest"
+  },
   "description": "This is a test.",
   "name": "test",
   "version": "1.0.0"

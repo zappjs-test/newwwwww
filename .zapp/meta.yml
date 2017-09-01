@@ -7,6 +7,10 @@ generators:
   /readme:
     keys:
       - id
+  /react/id: {}
+  /react:
+    keys:
+      - id
 specs:
   /app/title: {}
   /app:
