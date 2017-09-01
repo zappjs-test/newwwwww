@@ -1,0 +1,17 @@
+generators:
+  /webpack/id: {}
+  /webpack:
+    keys:
+      - id
+  /npm/id: {}
+  /npm:
+    keys:
+      - id
+specs:
+  /app:
+    keys:
+      - name
+  /:
+    keys:
+      - app
+  /app/name: {}
