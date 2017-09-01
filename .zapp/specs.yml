@@ -1,2 +1,4 @@
 app:
   name: test
+  title: Test
+  description: This is a test.
