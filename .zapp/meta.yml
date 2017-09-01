@@ -3,3 +3,7 @@ generators:
   /webpack:
     keys:
       - id
+  /readme/id: {}
+  /readme:
+    keys:
+      - id
