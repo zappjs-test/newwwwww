@@ -8,7 +8,7 @@
     "redux-thunk": "^2.2.0"
   },
   "description": "This is a test.",
-  "name": "test",
+  "name": "test-app",
   "scripts": {
     "build": "NODE_ENV=production webpack",
     "dev": "webpack-dev-server",
